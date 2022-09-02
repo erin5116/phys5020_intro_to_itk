@@ -1,4 +1,4 @@
-# phys5020_intr_to_itk
+# phys5020_intro_to_itk
 PHYS5020 for the Masters of Medical Physics @ The University of Sydney
 
 This tutorial introduces the image object in SITK.
